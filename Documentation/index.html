@@ -1,0 +1,994 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head lang="en">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>Ridek || Template Documentation</title>
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	<style type="text/css" media="screen">
+		p, table, hr, .box { margin-bottom:25px; }
+		.box p { margin-bottom:10px; }
+    .added1 {	background-color: #336600;
+	color: #FFFFFF;
+}
+    </style>
+
+	<!-- Syntax Highlighter -->
+	<link rel="stylesheet" type="text/css" href="syntax-highlighter/styles/shCore.css" media="all">
+	<link rel="stylesheet" type="text/css" href="syntax-highlighter/styles/shThemeDefault.css" media="all">
+</head>
+
+
+<body>
+	<div class="container">
+
+		<h3 class="center alt">&ldquo;Ridek&rdquo; Documentation by &ldquo;DynamicLayers&rdquo; v1.0</h3>
+
+		<hr>
+
+		<h1 class="center">&ldquo;Ridek&rdquo;</h1>
+
+        <div class="borderTop">
+			<div class="span-6 colborder info prepend-1">
+			<p class="prepend-top">
+<strong>
+					Created: 26/02/2023<br>
+				By: <a href="http://www.dynamiclayers.net">DynamicLayers</a><br>
+				<br>
+			    </strong><strong><br>
+		        </strong></p>
+    </div><!-- end div .span-6 -->
+
+			<div class="span-12 last">
+				<p class="prepend-top append-0">Thank you for purchasing our theme. If you have any questions that are beyond the scope of this help file, please contact our support. Thanks so much!</p>
+	</div>
+	  </div><!-- end div .borderTop -->
+
+		<hr>
+
+		<h2 id="toc" class="alt">Table of Contents</h2>
+		<ol class="alpha">
+			<li><a href="#htmlStructure">HTML Structure</a></li>
+			<li><a href="#temp-components">Template Components</a></li>
+			<li><a href="#cssFiles">CSS Files and Structure</a></li>
+			<li><a href="#javascript">JavaScript</a></li>
+			<li><a href="#credits">Sources and Credits</a></li>
+			<li><a href="#php">PHP Code Explanation</a> <em class="quiet small">(If your theme uses PHP)</em></li>
+		</ol>
+
+		<hr>
+
+		<h3 id="htmlStructure"><strong>A) HTML Structure</strong> - <a href="#toc">top</a></h3>
+		<p>Below is the general HTML structure of the landing page.<br>
+		</p>
+
+	  <h4 id="front-html-structures"><strong>1) index.html File Structure</strong> - <a href="#toc">top</a></h4>
+
+      <p>The template page's layout consist of top that show the logo and main menu, hero section  that show background image, beforecontent that show some amaizing content,  about section contain about your some info & feature, service section contained all services, work section you can showcase your portfolio with awesome animation, skills section here you can add some skills, team section is for your team members, testimonial section here you can published your customer reviews, call to action this for call to action content, contact section here you can put your contact information & footer that show copyright information.</p>
+
+<pre class="brush: html;" id="front-html-structure-pre">
+&lt;!DOCTYPE html>
+&lt;!--[if lt IE 7]>      &lt;html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> &lt;![endif]-->
+&lt;!--[if IE 7]>         &lt;html class="no-js lt-ie9 lt-ie8" lang=""> &lt;![endif]-->
+&lt;!--[if IE 8]>         &lt;html class="no-js lt-ie9" lang=""> &lt;![endif]-->
+&lt;!--[if gt IE 8]>&lt;!-->
+&lt;html class="no-js" lang="en">
+&lt;!--&lt;![endif]-->
+
+&lt;head>
+    &lt;meta charset="utf-8" />
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1" />
+    &lt;meta name="description" content="Ridek Online Taxi Booking HTML5 Template" />
+    &lt;meta name="author" content="DynamicLayers" />
+
+    &lt;title>Ridek | Ridek Online Taxi Booking Service HTML5 Template&lt;/title>
+
+    &lt;link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png" />
+
+    &lt;link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    &lt;link rel="stylesheet" href="assets/css/animate.min.css" />
+    &lt;link rel="stylesheet" href="assets/css/fontawesome.min.css" />
+    &lt;link rel="stylesheet" href="assets/css/line-awesome.min.css" />
+    &lt;link rel="stylesheet" href="assets/css/keyframe-animation.css" />
+    &lt;link rel="stylesheet" href="assets/css/jquery.datetimepicker.min.css" />
+    &lt;link rel="stylesheet" href="assets/css/nice-select.css" />
+    &lt;link rel="stylesheet" href="assets/css/venobox.min.css" />
+    &lt;link rel="stylesheet" href="assets/css/swiper.min.css" />
+    &lt;link rel="stylesheet" href="assets/css/header.css" />
+    &lt;link rel="stylesheet" href="assets/css/slider.css" />
+    &lt;link rel="stylesheet" href="assets/css/blog.css" />
+    &lt;link rel="stylesheet" href="assets/css/elements.css" />
+    &lt;link rel="stylesheet" href="assets/css/main.css" />
+    &lt;link rel="stylesheet" href="assets/css/responsive.css" />
+&lt;/head>
+
+&lt;body>
+    &lt;!--[if lt IE 8]>
+	&lt;p class="browserupgrade">
+        You are using an &lt;strong>outdated&lt;/strong> browser. Please
+        &lt;a href="http://browsehappy.com/">upgrade your browser&lt;/a> to improve
+        your experience.
+	&lt;/p>&lt;![endif]-->
+
+    &lt;div class="site-preloader">
+        &lt;div class="car">
+            &lt;div class="strike">&lt;/div>
+            &lt;div class="strike strike2">&lt;/div>
+            &lt;div class="strike strike3">&lt;/div>
+            &lt;div class="strike strike4">&lt;/div>
+            &lt;div class="strike strike5">&lt;/div>
+            &lt;div class="car-detail spoiler">&lt;/div>
+            &lt;div class="car-detail back">&lt;/div>
+            &lt;div class="car-detail center">&lt;/div>
+            &lt;div class="car-detail center1">&lt;/div>
+            &lt;div class="car-detail front">&lt;/div>
+            &lt;div class="car-detail wheel">&lt;/div>
+            &lt;div class="car-detail wheel wheel2">&lt;/div>
+        &lt;/div>
+    &lt;/div>
+    &lt;!--/.site-preloader-->
+
+    &lt;header class="main-header">
+        
+        &lt;!--/.nav-menu-->
+    &lt;/header>
+    &lt;!--/.main-header-->
+
+    &lt;div id="popup-search-box">
+        
+    &lt;/div>
+    &lt;!--/.popupsearch-box-->
+    &lt;div id="searchbox-overlay">&lt;/div>
+
+    &lt;div id="popup-sidebox" class="popup-sidebox">
+        
+    &lt;/div>
+    &lt;!--/.popup-sidebox-->
+    &lt;div id="sidebox-overlay">&lt;/div>
+
+    &lt;section class="slider-section">
+        
+    &lt;/section>
+    &lt;!--/.slider-section-->
+
+    &lt;section class="about-section padding">
+        
+    &lt;/section>
+    &lt;!--/.about-section-->
+
+    &lt;section class="service-section bg-grey padding">
+        
+    &lt;/section>
+    &lt;!--/.service-section-->
+
+    &lt;section class="booking-section">
+        
+    &lt;/section>
+    &lt;!--/.booking-section-->
+
+    &lt;section class="pricing-section bg-grey bd-bottom padding">
+        
+    &lt;/section>
+    &lt;!--/.pricing-section-->
+
+    &lt;section class="download-section bd-bottom padding">
+        
+    &lt;/section>
+    &lt;!--/.download-section-->
+
+    &lt;section class="testimonial-section bg-grey">
+        
+    &lt;/section>
+    &lt;!--/.testimonial-section-->
+
+    &lt;section class="cta-section padding">
+        
+    &lt;/section>
+    &lt;!--/.cta-section-->
+
+    &lt;section class="blog-section bg-grey padding">
+        
+    &lt;/section>
+    &lt;!--/.blog-section-->
+
+    &lt;footer class="footer-section">
+        
+    &lt;/footer>
+    &lt;!--/.footer-section-->
+
+    &lt;div id="scrollup">
+        &lt;button id="scroll-top" class="scroll-to-top">
+            &lt;i class="las la-arrow-up">&lt;/i>
+        &lt;/button>
+    &lt;/div>
+    &lt;!--scrollup-->
+
+    &lt;div class="dl-cursor">
+        &lt;div class="cursor-icon-holder">&lt;i class="las la-times">&lt;/i>&lt;/div>
+    &lt;/div>
+    &lt;!--/.dl-cursor-->
+
+    &lt;!--jQuery Lib-->
+    &lt;script src="assets/js/vendor/jquary-3.6.0.min.js">&lt;/script>
+    &lt;script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js">&lt;/script>
+    &lt;script src="assets/js/vendor/jquery.ajaxchimp.min.js">&lt;/script>
+    &lt;script src="assets/js/vendor/bootstrap.min.js">&lt;/script>
+    &lt;script src="assets/js/vendor/popper.min.js">&lt;/script>
+    &lt;script src="assets/js/vendor/swiper.min.js">&lt;/script>
+    &lt;script src="assets/js/vendor/jquery.datetimepicker.full.js">&lt;/script>
+    &lt;script src="assets/js/vendor/jquery.nice-select.min.js">&lt;/script>
+    &lt;script src="assets/js/vendor/venobox.min.js">&lt;/script>
+    &lt;script src="assets/js/vendor/smooth-scroll.js">&lt;/script>
+    &lt;script src="assets/js/vendor/wow.min.js">&lt;/script>
+    &lt;script src="assets/js/main.js">&lt;/script>
+&lt;/body>
+
+&lt;/html>
+
+        </pre>
+       <hr>
+
+
+		<h3 id="temp-components"><strong>B) Template Components</strong> - <a href="#toc">top</a></h3>
+		<p>The site is made of many sections like header, slider, testimonials, services and more...</p>
+
+<h4 id="slider"><strong>1) Header Section</strong> - <a href="#toc">top</a></h4>
+
+
+<pre class="brush: html;">
+&lt;header class="main-header">
+        &lt;div class="top-header">
+            &lt;div class="container">
+                &lt;div class="top-header-wrap">
+                    &lt;div class="top-left">
+                        &lt;p>Reliable Taxi Service & Transport Solutions!&lt;/p>
+                    &lt;/div>
+                    &lt;div class="top-right">
+                        &lt;ul class="top-header-nav">
+                            &lt;li>&lt;a href="faqs.html">Help&lt;/a>&lt;/li>
+                        &lt;/ul>
+                        &lt;ul class="header-social-share">
+                            &lt;li>&lt;a href="#">&lt;i class="fab fa-facebook-f">&lt;/i>&lt;/a>&lt;/li>
+                        &lt;/ul>
+                    &lt;/div>
+                &lt;/div>
+            &lt;/div>
+        &lt;/div>
+        &lt;!--/.top-header-->
+        &lt;div class="mid-header">
+            &lt;div class="container">
+                &lt;div class="mid-header-wrap">
+                    &lt;div class="site-logo">
+                        &lt;a href="index.html">&lt;img src="assets/img/logo-dark.png" alt="Logo" />&lt;/a>
+                    &lt;/div>
+                    &lt;!--/.site-logo-->
+                    &lt;ul class="header-info">
+                        &lt;li>
+                            &lt;div class="header-info-icon">
+                                &lt;i class="las la-phone-volume">&lt;/i>
+                            &lt;/div>
+                            &lt;div class="header-info-text">
+                                &lt;h3>&lt;span>Call us now&lt;/span>&lt;a href="tel:5267214392">5267-214-392&lt;/a>&lt;/h3>
+                            &lt;/div>
+                        &lt;/li>
+                        &lt;li>
+                    &lt;/ul>
+                &lt;/div>
+            &lt;/div>
+        &lt;/div>
+        &lt;!--/.mid-header-->
+        &lt;div class="nav-menu-wrapper">
+            &lt;div class="container">
+                &lt;div class="nav-menu-inner">
+                    &lt;div class="site-logo">
+                        &lt;a href="index.html">&lt;img src="assets/img/logo-dark.png" alt="Logo" />&lt;/a>
+                    &lt;/div>
+                    &lt;!--/.site-logo-->
+                    &lt;div class="header-menu-wrap">
+                        &lt;ul class="nav-menu">
+                            &lt;li class="active dropdown_menu">
+                                &lt;a href="index.html">Home&lt;/a>
+                                &lt;ul>
+                                    &lt;li>&lt;a href="index.html">Home Default&lt;/a>&lt;/li>
+                                &lt;/ul>
+                            &lt;/li>
+                            &lt;li class="dropdown_menu">
+                                &lt;a href="about-us.html">Company&lt;/a>
+                                &lt;ul>
+                                    &lt;li>&lt;a href="about-us.html">About Us&lt;/a>&lt;/li>
+                                &lt;/ul>
+                            &lt;/li>
+                            &lt;li class="dropdown_menu">
+                                &lt;a href="our-taxi.html">Our Taxi&lt;/a>
+                                &lt;ul>
+                                    &lt;li>&lt;a href="our-taxi.html">Taxi Lists&lt;/a>&lt;/li>
+                                &lt;/ul>
+                            &lt;/li>
+                            &lt;li class="dropdown_menu">
+                                &lt;a href="#">Pages&lt;/a>
+                                &lt;ul>
+                                    &lt;li>&lt;a href="our-drivers.html">Our Drivers&lt;/a>&lt;/li>
+                                &lt;/ul>
+                            &lt;/li>
+                            &lt;li class="dropdown_menu">
+                                &lt;a href="blog-grid.html">Blog&lt;/a>
+                                &lt;ul>
+                                    &lt;li>&lt;a href="blog-grid.html">Grid Posts&lt;/a>&lt;/li>
+                                &lt;/ul>
+                            &lt;/li>
+                            &lt;li>&lt;a href="contact.html">Contact&lt;/a>&lt;/li>
+                        &lt;/ul>
+                    &lt;/div>
+                    &lt;div class="menu-right-item">
+                        &lt;div class="search-icon dl-search-icon">
+                            &lt;i class="las la-search">&lt;/i>
+                        &lt;/div>
+                        &lt;div class="sidebox-icon dl-sidebox-icon">
+                            &lt;i class="las la-bars">&lt;/i>
+                        &lt;/div>
+                        &lt;a href="book-taxi.html" class="menu-btn">Book a Taxi&lt;/a>
+                    &lt;/div>
+                    &lt;div class="mobile-menu-icon">
+                        &lt;div class="burger-menu">
+                            &lt;div class="line-menu line-half first-line">&lt;/div>
+                            &lt;div class="line-menu">&lt;/div>
+                            &lt;div class="line-menu line-half last-line">&lt;/div>
+                        &lt;/div>
+                    &lt;/div>
+                &lt;/div>
+            &lt;/div>
+        &lt;/div>
+        &lt;!--/.nav-menu-->
+    &lt;/header>
+    &lt;!--/.main-header-->
+</pre>
+
+
+	  <hr>
+<h4 id="portfolio"><strong>2) Slider Section</strong> - <a href="#toc">top</a></h4>
+  <br>
+<pre class="brush: html;">
+&lt;section class="slider-section">
+	&lt;div class="main-slider">
+		&lt;div class="swiper-wrapper">
+			&lt;div class="swiper-slide">
+				&lt;div class="slider-img">&lt;img src="assets/img/slider-bg.jpg" alt="img" class="kenburns" style="animation-duration: 12000ms; ">&lt;/div>
+				&lt;div class="car-holder">
+					&lt;img src="assets/img/car-1.png" alt="car" data-animation="car-animation" data-duration="1.5s">
+					&lt;div class="shape">
+						&lt;div data-animation="slide-in-bottom" data-duration="1.5s" data-delay="0.3s">&lt;/div>
+						&lt;div data-animation="fade-in" data-duration="1.5s" data-delay="0.2s">&lt;/div>
+						&lt;div data-animation="slide-in-top" data-duration="1.5s" data-delay="0.5s">&lt;/div>
+					&lt;/div>
+				&lt;/div>
+				&lt;div class="slider-content-wrap d-flex align-items-center text-left">
+					&lt;div class="container">
+						&lt;div class="slider-content">
+							&lt;div class="slider-caption medium">
+								&lt;div class="inner-layer">
+									&lt;div data-animation="fade-in-bottom" data-delay="0.3s">Travel securely with us!&lt;/div>
+								&lt;/div>
+							&lt;/div>
+							&lt;div class="slider-caption big">
+								&lt;div class="inner-layer">
+									&lt;div data-animation="fade-in-bottom" data-delay="0.5s">Book your taxi from &lt;br>anywhare today!&lt;/div>
+								&lt;/div>
+							&lt;/div>
+							&lt;div class="slider-caption small">
+								&lt;div class="inner-layer">
+									&lt;div data-animation="fade-in-bottom" data-delay="0.7s" data-duration="1s">Everything your taxi business needs is already here! &lt;br>Ridek made for taxi service companies!&lt;/div>
+								&lt;/div>
+							&lt;/div>
+							&lt;div class="slider-btn">
+								&lt;a href="book-taxi.html" class="default-btn" data-animation="fade-in-bottom" data-delay="0.9s">Book Now&lt;/a>
+							&lt;/div>
+						&lt;/div>
+					&lt;/div>
+				&lt;/div>
+			&lt;/div>
+		&lt;/div>
+		&lt;!-- Slider navigation buttons -->
+		&lt;div class="slider-controls">
+			&lt;div class="slider-control slider-button-next">Next&lt;span>&lt;i class="las la-long-arrow-alt-right">&lt;/i>&lt;/span>
+			&lt;/div>
+			&lt;div class="slider-control slider-button-prev">&lt;span>&lt;i class="las la-long-arrow-alt-left">&lt;/i>&lt;/span>Prev
+			&lt;/div>
+			&lt;div class="slider-pagination">&lt;/div>
+		&lt;/div>
+	&lt;/div>
+&lt;/section>
+&lt;!--/.slider-section-->
+</pre>
+
+<hr>
+
+<h4 id="portfolio"><strong>3) About Section</strong> - <a href="#toc">top</a></h4>
+  <br>
+<pre class="brush: html;">
+&lt;section class="about-section padding">
+	&lt;div class="container">
+		&lt;div class="row align-items-center">
+			&lt;div class="col-md-6 col-sm-6">
+				&lt;div class="about-img">
+					&lt;img class="about-img1" src="assets/img/about-1.png" alt="img">
+					&lt;img class="about-img2" src="assets/img/about-2.png" alt="img">
+					&lt;figure class="round-text">&lt;img src="assets/img/experience-text-round.png" alt="img">&lt;/figure>
+				&lt;/div>
+			&lt;/div>
+			&lt;div class="col-md-6 col-sm-6">
+				&lt;div class="section-heading mb-40">
+					&lt;h4>&lt;span>&lt;/span>About Our Company&lt;/h4>
+					&lt;h2>Feel the difference and Relaxation with Ridek Taxi Company!&lt;/h2>
+					&lt;p>We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master new technologies. Our portfolio includes dozens of successfully completed projects of houses of different storeys, with high–quality finishes and good repairs. Book your taxi from anywhare today!&lt;/p>
+				&lt;/div>
+				&lt;!--/.section-heading-->
+				&lt;ul class="about-info">
+					&lt;li>
+						&lt;img class="owner-thumb" src="assets/img/comment-1.png" alt="thumb">
+						&lt;div class="owner">
+							&lt;h4>Founder - CEO&lt;/h4>
+							&lt;img class="signature" src="assets/img/signature.png" alt="signature">
+						&lt;/div>
+					&lt;/li>
+					&lt;li>
+						&lt;h2>&lt;span>Call For Taxi&lt;/span>&lt;a href="tel:5267214392">5267-214-392&lt;/a>&lt;/h2>
+					&lt;/li>
+				&lt;/ul>
+			&lt;/div>
+		&lt;/div>
+	&lt;/div>
+&lt;/section>
+&lt;!--/.about-section-->
+</pre>
+
+<br>
+
+<hr>
+
+<h4 id="portfolio"><strong>4) Service Section</strong> - <a href="#toc">top</a></h4>
+  <br>
+<pre class="brush: html;">
+&lt;section class="service-section bg-grey padding">
+	&lt;div class="bg-half">&lt;/div>
+	&lt;div class="container">
+		&lt;div class="section-heading text-center mb-40">
+			&lt;h4>&lt;span>&lt;/span>What We Offer&lt;/h4>
+			&lt;h2 class="white">Start your journey with&lt;br>Ridek Taxi Company!&lt;/h2>
+			&lt;p>We successfully cope with tasks of varying complexity, provide long-term &lt;br>guarantees and regularly master new technologies.&lt;/p>
+		&lt;/div>
+		&lt;!--/.section-heading-->
+		&lt;div class="swiper-outside">
+			&lt;div class="service-carousel">
+				&lt;div class="swiper-wrapper">
+					&lt;div class="swiper-slide">
+						&lt;div class="service-item">
+							&lt;div class="service-thumb">
+								&lt;img src="assets/img/service-1.jpg" alt="img">
+								&lt;div class="service-shape-wrap">
+									&lt;div class="service-shape">&lt;/div>
+								&lt;/div>
+								&lt;div class="service-car">&lt;img src="assets/img/car-1.png" alt="car">&lt;/div>
+							&lt;/div>
+							&lt;div class="service-content">
+								&lt;h3>&lt;a href="service-details.html">Regular Transport&lt;/a>&lt;/h3>
+								&lt;p>Everything your taxi business needs is already here! Ridek made for taxi service companies!&lt;/p>
+								&lt;a class="read-more" href="service-details.html">Read More&lt;/a>
+							&lt;/div>
+						&lt;/div>
+					&lt;/div>
+				&lt;/div>
+				&lt;div class="swiper-pagination">&lt;/div>&lt;!-- Carousel Dots -->
+			&lt;/div>
+			&lt;!-- Carousel Arrows -->
+			&lt;div class="swiper-nav swiper-next">&lt;i class="las la-long-arrow-alt-right">&lt;/i>&lt;/div>
+			&lt;div class="swiper-nav swiper-prev">&lt;i class="las la-long-arrow-alt-left">&lt;/i>&lt;/div>
+		&lt;/div>
+	&lt;/div>
+&lt;/section>
+&lt;!--/.service-section-->
+</pre>
+
+<br>
+
+<hr>
+
+<h4 id="portfolio"><strong>5) Booking Section</strong> - <a href="#toc">top</a></h4>
+  <br>
+<pre class="brush: html;">
+&lt;section class="booking-section">
+	&lt;div class="container">
+		&lt;div class="row pos-relative padding">
+			&lt;div class="col-lg-4">
+				&lt;div class="booking-car">&lt;/div>
+			&lt;/div>
+			&lt;div class="col-lg-8">
+				&lt;div class="booking-wrap">
+					&lt;div class="section-heading mb-30">
+						&lt;h4>&lt;span>&lt;/span>Online Booking&lt;/h4>
+						&lt;h2 class="white">Book Your Taxi Ride&lt;/h2>
+					&lt;/div>
+					&lt;form action="#">
+						&lt;div class="booking-form">
+							&lt;div class="form-field">
+								&lt;i class="las la-user-tie">&lt;/i>
+								&lt;input type="text" id="yourname" name="yourname" class="form-control" placeholder="Your Name" required>
+							&lt;/div>
+							&lt;div class="form-field">
+								&lt;i class="las la-envelope-open">&lt;/i>
+								&lt;input type="email" id="email" name="email" class="form-control" placeholder="Email" required>
+							&lt;/div>
+							&lt;div class="form-field">
+								&lt;i class="las la-tags">&lt;/i>
+								&lt;select name="type" id="type" class="niceSelect">
+									&lt;option value="standard">Standard&lt;/option>
+								&lt;/select>
+							&lt;/div>
+							&lt;div class="form-field">
+								&lt;i class="las la-user-friends">&lt;/i>
+								&lt;select name="passengers" id="passengers" class="niceSelect">
+									&lt;option value="1">1 Person&lt;/option>
+								&lt;/select>
+							&lt;/div>
+							&lt;div class="form-field">
+								&lt;i class="las la-map-marker">&lt;/i>
+								&lt;input type="text" id="start-dest" name="start-dest" class="form-control" placeholder="Start Destination" required>
+							&lt;/div>
+							&lt;div class="form-field">
+								&lt;button id="submit" class="default-btn" type="submit">Book Your Taxi&lt;/button>
+							&lt;/div>
+						&lt;/div>
+					&lt;/form>&lt;!-- Booking Form -->
+				&lt;/div>
+			&lt;/div>
+		&lt;/div>
+	&lt;/div>
+&lt;/section>
+&lt;!--/.booking-section-->
+</pre>
+
+<br>
+
+<hr>
+
+<h4 id="portfolio"><strong>6) Pricing Section</strong> - <a href="#toc">top</a></h4>
+  <br>
+<pre class="brush: html;">
+&lt;section class="pricing-section bg-grey bd-bottom padding">
+	&lt;div class="container">
+		&lt;div class="section-heading text-center mb-40">
+			&lt;h4>&lt;span>&lt;/span>Lets Go With Us!&lt;/h4>
+			&lt;h2>Choose Your Taxi to Ride!&lt;/h2>
+			&lt;p>We successfully cope with tasks of varying complexity, provide long-term &lt;br>guarantees and regularly master new technologies.&lt;/p>
+		&lt;/div>
+		&lt;!--/.section-heading-->
+		&lt;ul class="nav pricing-tab-menu" id="pricing-tab" role="tablist">
+			&lt;li class="nav-item" role="presentation">
+				&lt;button class="nav-link active" id="hybrid-taxi" data-bs-toggle="tab" data-bs-target="#hybrid-taxi-content" type="button" role="tab" aria-controls="hybrid-taxi-content" aria-selected="true">Hybrid Taxi&lt;/button>
+			&lt;/li>
+		&lt;/ul>
+		&lt;!--Tab Menu-->
+		&lt;div class="tab-content" id="pricing-tab-content">
+			&lt;div class="tab-pane fade show active" id="hybrid-taxi-content" role="tabpanel" aria-labelledby="hybrid-taxi">
+				&lt;div class="row">
+					&lt;div class="col-lg-4 col-md-6 sm-padding">
+						&lt;div class="pricing-item">
+							&lt;div class="pricing-head-wrap">
+								&lt;div class="pricing-car">
+									&lt;img src="assets/img/pricing-car.png" alt="car">
+									&lt;div class="price">$2.50/km&lt;/div>
+								&lt;/div>
+							&lt;/div>
+							&lt;div class="pricing-head">
+								&lt;h3>&lt;a href="taxi-details.html">BMW X5 2008&lt;/a>&lt;/h3>
+								&lt;span class="location">Chicago&lt;/span>
+							&lt;/div>
+							&lt;ul class="pricing-list">
+								&lt;li>Initial Charge: &lt;span>$2.50&lt;/span>&lt;/li>
+								&lt;li>Per Mile/KM: &lt;span>$4.20&lt;/span>&lt;/li>
+								&lt;li>Per Stopped Trafic: &lt;span>$1.50&lt;/span>&lt;/li>
+								&lt;li>Passengers: &lt;span>4 Person&lt;/span>&lt;/li>
+								&lt;li>&lt;a href="book-taxi.html" class="default-btn">Book Taxi Now&lt;/a>&lt;/li>
+							&lt;/ul>
+						&lt;/div>
+					&lt;/div>
+				&lt;/div>
+			&lt;/div>
+		&lt;/div>&lt;!-- Tab Content -->
+	&lt;/div>
+&lt;/section>
+&lt;!--/.pricing-section-->
+</pre>
+
+<br>
+
+<hr>
+
+<h4 id="portfolio"><strong>7) Download Section</strong> - <a href="#toc">top</a></h4>
+  <br>
+<pre class="brush: html;">
+&lt;section class="download-section bd-bottom padding">
+	&lt;div class="container">
+		&lt;div class="row">
+			&lt;div class="col-lg-6">
+				&lt;div class="section-heading">
+					&lt;h4>&lt;span>&lt;/span>Online Booking&lt;/h4>
+					&lt;h2>Get the Ridek Mobile app and Start Your Journey!&lt;/h2>
+					&lt;p>We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master technologies.&lt;/p>
+					&lt;ul class="app-feature">
+						&lt;li>
+							&lt;i>&lt;img class="feature-icon" src="assets/img/icon-navigator.svg" alt="icon">&lt;/i>
+							&lt;h3>Easy to Search &lt;br> Ridek Taxi!&lt;/h3>
+						&lt;/li>
+					&lt;/ul>
+					&lt;div class="download-btn">
+						&lt;a href="#">&lt;img src="assets/img/google-play.svg" alt="PlayStore">&lt;/a>
+					&lt;/div>
+				&lt;/div>
+			&lt;/div>
+			&lt;div class="col-md-6">
+				&lt;div class="taxi-holder">
+					&lt;div class="taxi">&lt;/div>
+					&lt;div class="mockup">&lt;/div>
+					&lt;div class="charecter">&lt;/div>
+					&lt;img class="location-marker" src="assets/img/location-marker.png" alt="location">
+				&lt;/div>
+			&lt;/div>
+		&lt;/div>
+	&lt;/div>
+&lt;/section>
+&lt;!--/.download-section-->
+</pre>
+
+<br>
+
+<hr>
+
+<h4 id="portfolio"><strong>8) Testimonial Section</strong> - <a href="#toc">top</a></h4>
+<pre class="brush: html;">
+&lt;section class="testimonial-section bg-grey">
+	&lt;div class="container">
+		&lt;div class="row align-items-center">
+			&lt;div class="col-lg-6">
+				&lt;div class="section-heading mb-10">
+					&lt;h4>&lt;span>&lt;/span>Clients Testimonial&lt;/h4>
+					&lt;h2>Ridek Passenger Reviews...&lt;/h2>
+					&lt;p>We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master technologies.&lt;/p>
+				&lt;/div>
+				&lt;div class="swiper-outside testi-pagination">
+					&lt;div class="testimonial-carousel">
+						&lt;div class="swiper-wrapper">
+							&lt;div class="swiper-slide">
+								&lt;div class="testi-item">
+									&lt;div class="quote-icon">&lt;i class="las la-quote-right">&lt;/i>&lt;/div>
+									&lt;p>Good to have transportation available in places and times it is otherwise hard to find, but the app has always been a bit difficult to use especially how it works or doesnt with large font phone settings.&lt;/p>
+									&lt;div class="testi-author">
+										&lt;div class="author-thumb">&lt;img src="assets/img/comment-1.png" alt="author">&lt;/div>
+										&lt;div class="author-info">
+											&lt;h3>Eredrik Johanson &lt;span>Financial .INC&lt;/span>&lt;/h3>
+										&lt;/div>
+									&lt;/div>
+								&lt;/div>
+							&lt;/div>
+						&lt;/div>
+					&lt;/div>
+					&lt;div class="swiper-pagination">&lt;/div>&lt;!-- Carousel Dots -->
+				&lt;/div>
+			&lt;/div>
+			&lt;div class="col-lg-6">
+				&lt;div class="feature-wrap">
+					&lt;div class="section-heading mb-30">
+						&lt;h4 class="white">&lt;span>&lt;/span>Why Choose Us!&lt;/h4>
+						&lt;h2 class="white">Why Ride with Ridek?&lt;/h2>
+						&lt;p class="white">We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master technologies.&lt;/p>
+					&lt;/div>
+					&lt;!--/.section-heading-->
+					&lt;ul class="Ridek-features">
+						&lt;li>
+							&lt;div class="feature-icon">
+								&lt;i class="las la-gem">&lt;/i>
+							&lt;/div>
+							&lt;div class="feature-content">
+								&lt;h3>Safe Guarantee&lt;/h3>
+								&lt;p>We successfully cope with tasks of &lt;br> varying complexity!&lt;/p>
+							&lt;/div>
+						&lt;/li>
+					&lt;/ul>
+				&lt;/div>
+			&lt;/div>
+		&lt;/div>
+	&lt;/div>
+&lt;/section>
+&lt;!--/.testimonial-section-->
+</pre>
+
+<br>
+
+<h4 id="portfolio"><strong>9) CTA Section</strong> - <a href="#toc">top</a></h4>
+<pre class="brush: html;">
+&lt;section class="cta-section padding">
+	&lt;div class="cta-men">&lt;/div>
+	&lt;div class="container">
+		&lt;div class="cta-content">
+			&lt;h2>Call Us Now &lt;span>Book Your Taxi&lt;/span> &lt;br> For Your Next Ride!&lt;/h2>
+			&lt;p>We successfully cope with tasks of varying complexity,&lt;br>guarantees and regularly master new technologies.&lt;/p>
+			&lt;div class="cta-call">
+				&lt;i class="las la-phone-volume">&lt;/i>
+				&lt;p>&lt;span>Call For Taxi&lt;/span>&lt;a href="tel:5267214392">5267-214-392&lt;/a>&lt;/p>
+			&lt;/div>
+		&lt;/div>
+	&lt;/div>
+&lt;/section>
+&lt;!--/.cta-section-->
+</pre>
+
+<h4><strong>10) Blog Section</strong></h4>
+<pre class="brush: html;">
+&lt;section class="blog-section">
+	&lt;div class="container">
+		&lt;div class="section-heading mb-40 text-center wow fade-in-bottom" data-wow-delay="200ms">
+			&lt;h3>What's on our mind&lt;/h3>
+		   &lt;h2>News and &lt;span>Headlines&lt;/span>&lt;/h2>
+		   &lt;p>Our success in creating business solutions is due in large part &lt;br>to our talented and highly committed team.&lt;/p>
+		&lt;/div>
+		&lt;div class="row grid-post">
+			&lt;div class="col-lg-4 col-md-6 padding-15 wow fade-in-bottom" data-wow-delay="300ms">
+				&lt;div class="post-card">
+					&lt;div class="post-thumb">
+						&lt;img src="assets/img/post-1.jpg" alt="post">
+						&lt;a href="blog-classic.html" class="post-category">Business&lt;/a>
+					&lt;/div>
+					&lt;div class="post-content-wrap">
+						&lt;ul class="post-meta">
+							&lt;li>&lt;i class="las la-calendar">&lt;/i>Jan 01 2022&lt;/li>
+							&lt;li>&lt;i class="las la-user">&lt;/i>Elliot Alderson&lt;/li>
+						&lt;/ul>
+						&lt;div class="post-content">
+							&lt;h3>&lt;a href="blog-details.html">How to start initiating an startup in few days.&lt;/a>&lt;/h3>
+							&lt;p>Financial experts support or help you to to find out which way you can raise your funds more...&lt;/p>
+							&lt;a href="blog-details.html" class="read-more">Read More&lt;/a>
+						&lt;/div>
+					&lt;/div>
+				&lt;/div>
+			&lt;/div>
+		&lt;/div>
+	&lt;/div>
+&lt;/section>&lt;!--blog-section-->
+</pre>
+
+<br>
+
+<h4><strong>11) Footer Section</strong></h4>
+<pre class="brush: html;">
+&lt;footer class="footer-section">
+	&lt;div class="footer-top-wrap">
+		&lt;div class="container">
+			&lt;div class="footer-top">
+				&lt;div class="row align-items-end">
+					&lt;div class="col-lg-8">
+						&lt;div class="brand">
+							&lt;a class="footer-logo" href="index.html">&lt;img src="assets/img/logo-light.png" alt="logo">&lt;/a>
+							&lt;p>We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master new technologies.&lt;/p>
+						&lt;/div>
+					&lt;/div>
+					&lt;div class="col-lg-4">
+						&lt;div class="footer-call">
+							&lt;i class="las la-phone-volume">&lt;/i>
+							&lt;p>&lt;span>Call For Taxi&lt;/span>&lt;a href="tel:5267214392">5267-214-392&lt;/a>&lt;/p>
+						&lt;/div>
+					&lt;/div>
+				&lt;/div>
+			&lt;/div>
+		&lt;/div>
+	&lt;/div>
+	&lt;!--/.footer-top-wrap-->
+	&lt;div class="footer-mid-wrap">
+		&lt;div class="container">
+			&lt;div class="row">
+				&lt;div class="col-lg-3 col-md-6 sm-padding">
+					&lt;div class="footer-item">
+						&lt;div class="widget-title">
+							&lt;h3>Working Hours&lt;/h3>
+						&lt;/div>
+						&lt;ul class="footer-contact">
+							&lt;li>&lt;span>Monday - Friday:&lt;/span>9.00am To 8.00pm&lt;/li>
+					&lt;/div>
+				&lt;/div>
+				&lt;div class="col-lg-3 col-md-6 sm-padding">
+					&lt;div class="footer-item footer-list">
+						&lt;div class="widget-title">
+							&lt;h3>Usefull Links&lt;/h3>
+						&lt;/div>
+						&lt;ul class="footer-links">
+							&lt;li>&lt;a href="book-taxi.html">Taxi Booking&lt;/a>&lt;/li>
+						&lt;/ul>
+					&lt;/div>
+				&lt;/div>
+				&lt;div class="col-lg-3 col-md-6 sm-padding">
+					&lt;div class="footer-item">
+						&lt;div class="widget-title">
+							&lt;h3>Head Office&lt;/h3>
+						&lt;/div>
+						&lt;ul class="footer-contact">
+							&lt;li>&lt;span>Location:&lt;/span>153 Williamson Plaza, Maggieberg, MT 09514&lt;/li>
+						&lt;/ul>
+					&lt;/div>
+				&lt;/div>
+				&lt;div class="col-lg-3 col-md-6 sm-padding">
+					&lt;div class="footer-item subscribe-wrap">
+						&lt;div class="widget-title">
+							&lt;h3>Newsletter Signup&lt;/h3>
+						&lt;/div>
+						&lt;form action="#" class="subscribe-form">
+							&lt;input class="form-control" type="email" name="email" placeholder="Your Email" required="">
+							&lt;input type="hidden" name="action" value="mailchimpsubscribe">
+							&lt;button class="submit">Subscribe Now&lt;/button>
+							&lt;div class="clearfix">&lt;/div>
+						&lt;/form>
+					&lt;/div>
+				&lt;/div>
+			&lt;/div>
+		&lt;/div>
+		&lt;div class="running-taxi">
+			&lt;div class="taxi">&lt;/div>
+			&lt;div class="taxi-2">&lt;/div>
+			&lt;div class="taxi-3">&lt;/div>
+		&lt;/div>
+	&lt;/div>
+	&lt;!--/.footer-mid-wrap-->
+	&lt;div class="copyright-wrap">
+		&lt;div class="container">
+			&lt;p>© &lt;span id="currentYear">&lt;/span> DynamicLayers All Rights Reserved.&lt;/p>
+		&lt;/div>
+	&lt;/div>
+	&lt;!--/.copyright-wrap-->
+&lt;/footer>
+&lt;!--/.footer-section-->
+</pre>
+
+<br>
+<hr>
+
+<h4><strong>14) Contact Form Configure</strong></h4>
+<p>Just open the <b>contact.php</b> file and add your email in the 20 no line. That's it.</p>
+<pre class="brush: php;">
+&lt;?php
+
+// Only process POST reqeusts.
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+	// Get the form fields and remove whitespace.
+	$firstname = strip_tags(trim($_POST["firstname"]));
+	$firstname = str_replace(array("\r","\n"),array(" "," "),$firstname);
+	$lastname = strip_tags(trim($_POST["lastname"]));
+	$lastname = str_replace(array("\r","\n"),array(" "," "),$lastname);
+	$email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
+	$phone = trim($_POST["phone"]);
+	$message = trim($_POST["message"]);
+
+	// Check that data was sent to the mailer.
+	if ( empty($firstname) OR empty( $phone ) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+		// Set a 400 (bad request) response code and exit.
+		http_response_code(400);
+		echo "Oops! There was a problem with your submission. Please complete the form and try again.";
+		exit;
+	}
+
+	// Update this to your desired email address.
+	$recipient = "contact@yourdomain.com";
+	$subject = "Message from $firstname";
+
+	// Email content.
+	$email_content = "Name: $firstname . ' ' . $lastname \n";
+	$email_content .= "Email: $email\n\n";
+	$email_content .= "Subject: $subject\n\n";
+	$email_content .= "Phone: $phone\n";
+	$email_content .= "Message: $message\n";
+
+	// Email headers.
+	$email_headers = "From: $firstname <$email>\r\nReply-to: <$email>";
+
+	// Send the email.
+	if (mail($recipient, $subject, $email_content, $email_headers)) {
+		// Set a 200 (okay) response code.
+		http_response_code(200);
+		echo "Thank You! Your message has been sent.";
+	} else {
+		// Set a 500 (internal server error) response code.
+		http_response_code(500);
+		echo "Oops! Something went wrong and we couldn't send your message.";
+	}
+
+} else {
+	// Not a POST request, set a 403 (forbidden) response code.
+	http_response_code(403);
+	echo "There was a problem with your submission, please try again.";
+}
+
+?>
+</pre>
+
+<br>
+
+<hr>
+
+<p>&nbsp;</p>
+
+	  <hr>
+		<h3 id="cssFiles"><strong>C) CSS Files and Structure</strong> - <a href="#toc">top</a></h3>
+		 <p>These are the css files:</p>
+		<ol>
+			<li>bootstrap.min.css</li>
+			<li>animate.min.css</li>
+			<li>elegant-font-icons.css</li>
+			<li>elegant-line-icons.css</li>
+			<li>owl.carousel.css</li>
+			<li>main.css </li>
+	        <li>responsive.css</li>
+	  </ol>
+
+
+<p>&nbsp;</p>
+	  <hr>
+
+		<h3 id="javascript"><strong>D) JavaScript</strong> - <a href="#toc">top</a></h3>
+
+		<p>This theme use these Javascript files:</p>
+
+		<ol>
+		  <li>jQuery<br>
+		    jQuery is a Javascript library that greatly reduces the amount of code that you must write. jQuery use these javascript files:
+		    <pre>
+            	bootstrap.min.js
+                popper.min.js
+                odometer.min.js
+                waypoints.min.js
+                venobox.min.js
+                swiper.min.js
+                smooth-scroll.js
+                wow.min.js
+                main.js
+            </pre>
+		    You can edit the contact.js files. for setting contact form
+		    <br>
+            <br>
+		  </li>
+	  </ol>
+
+<hr>
+
+		<h3 id="credits"><strong>F) Sources and Credits</strong> - <a href="#toc">top</a></h3>
+		<ol>
+			<li><a href="http://getbootstrap.com" target="_blank">Bootstrap 5</a></li>
+			<li><a href="https://swiperjs.com/" target="_blank">Swiper JS</a></li>
+			<li><a href="https://wowjs.uk/" target="_blank">WOW JS</a></li>
+			<li><a href="http://veno.es/venobox/" target="_blank">VenoBox</a></li>
+			<li><a href="https://github.com/cferdinandi/smooth-scroll" target="_blank">Smooth Scroll</a></li>
+			<li><a href="http://plugins.jquery.com/ajaxchimp/" target="_blank">AjaxChimp</a></li>
+		</ol>
+	    <p>
+
+    <hr>
+        <h3 id="php"><strong>G) PHP Code Explanation </strong> - <a href="#toc">top</a></h3>
+        <p>There are only one php code for contact page which is contact.php, open this file and change the email and subject on line 23 and line 24.
+         No need to edit other code unless you really want to.
+  <hr>
+		<p>Once again, thank you so much for purchasing this theme. As I said at the beginning, I'd be glad to help you if you have any questions relating to this theme. No guarantees, but I'll do my best to assist.</p>
+
+	  <p class="append-bottom alt large"><strong>DynamicLayers</strong></p>
+		<p><a href="#toc">Go To Table of Contents</a></p>
+
+		<hr class="space">
+	</div>
+<!-- end div .container -->
+	<script type="text/javascript" src="syntax-highlighter/scripts/shCore.js"></script>
+	<script type="text/javascript" src="syntax-highlighter/scripts/shBrushXml.js"></script>
+	<script type="text/javascript" src="syntax-highlighter/scripts/shBrushCss.js"></script>
+	<script type="text/javascript" src="syntax-highlighter/scripts/shBrushJScript.js"></script>
+	<script type="text/javascript" src="syntax-highlighter/scripts/shBrushPhp.js"></script>
+	<script type="text/javascript">
+     SyntaxHighlighter.all()
+</script>
+</body>
+</html>
