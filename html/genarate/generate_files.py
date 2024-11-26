@@ -2,18 +2,10 @@ import os
 
 # Updated list of locations
 locations = [
-    "Andiambalama", "Attanagalla", "Badalgama", "Banduragoda", "Bemmulla", "Biyagama", "Bokalagama",
-    "Bollete", "Bopagama", "Buthpitiya", "Dagonna", "Danowita", "Dekatana", "Delgoda", "Dewalapola",
-    "Divulapitiya", "Divuldeniya", "Dompe", "Dunagaha", "Ekala", "Gampaha", "Ganemulla", "Gonawala",
-    "Heiyanthuduwa", "Henegama", "Hinatiyana Madawala", "Imbulgoda", "Ja-ela", "Kadawatha", "Kahatowita",
-    "Kalagedihena", "Kaleliya", "Kaluaggala", "Kandana", "Katana", "Katunayake", "Kelaniya",
-    "Kirindiwela", "Kochchikade", "Kotadeniyawa", "Kotugoda", "Loluwagoda", "Lunugama", "Makewita",
-    "Makola", "Malwana", "Marandagahamula", "Minuwangoda", "Mirigama", "Mithirigala", "Muddaragama",
-    "Mudungoda", "Nedungamuwa", "Negombo", "Nittambuwa", "Niwandama", "Pallewela", "Pamunugama",
-    "Pasyala", "Peliyagoda", "Pethiyagoda", "Pugoda", "Radawadunna", "Radawana", "Raddolugama",
-    "Ragama", "Seeduwa", "Siyambalape", "Thalahena", "Udugampola", "Urapola", "Uswetakeiyawa",
-    "Veyangoda", "Walpita", "Walpola", "Wathurugama", "Wattala", "Weboda", "Weliweriya", "Weweldeniya",
-    "Yakkala", "Yatiyana"
+    "Angunakolawewa", "Badalkumbura", "Balaharuwa", "Bibile", "Buddama", "Buttala", "Dambagalla",
+    "Dombagahawela", "Ethimale", "Ethiliwewa", "Galabedda", "Hambegamuwa", "Hulandawa", "Katharagama",
+    "Kiribbanwewa", "Medagama", "Monaragala", "Nilgala", "Okkampitiya", "Randeniya", "Sella Katharagama",
+    "Sewanagala", "Siyambalanduwa", "Thanamalwila", "Pelwatta", "Handapanagala", "Wellawaya"
 ]
 
 # Directory to save files
