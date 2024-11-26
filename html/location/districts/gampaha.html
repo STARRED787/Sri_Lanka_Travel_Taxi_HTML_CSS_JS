@@ -43,10 +43,15 @@
     }
 
     .districts-inline {
-      flex-wrap: wrap;
-      justify-content: center; /* Center aligns the districts */
+      display: flex; /* Use flexbox for inline layout */
+      flex-wrap: wrap; /* Wrap items to the next row if space is insufficient */
+      justify-content: center; /* Center align the districts */
       align-items: center;
-      gap: 10px;
+      gap: 10px; /* Space between items */
+    }
+
+    .districts-list .nav-item {
+      list-style: none; /* Remove default list styles */
     }
 
     .districts-list .nav-item .nav-link {
@@ -55,6 +60,8 @@
       text-transform: capitalize;
       transition: color 0.3s ease;
       padding: 5px 10px;
+      display: inline-block;
+      text-align: center;
     }
 
     .districts-list .nav-item .nav-link:hover {
@@ -194,40 +201,44 @@
             <a class="nav-link" href="../centers/biyagama.html">Biyagama</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Bokalagama</a>
+            <a class="nav-link" href="../centers/bokalagama.html">Bokalagama</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Bollete</a>
+            <a class="nav-link" href="../centers/bollete.html">Bollete</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Bopagama</a>
+            <a class="nav-link" href="../centers/bopagama.html">Bopagama</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Buthpitiya</a>
+            <a class="nav-link" href="../centers/buthpitiya.html">Buthpitiya</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Dagonna</a>
+            <a class="nav-link" href="../centers/dagonna.html">Dagonna</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Danowita</a>
+            <a class="nav-link" href="../centers/danowita.html">Danowita</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Dekatana</a>
+            <a class="nav-link" href="../centers/dekatana.html">Dekatana</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Delgoda</a>
+            <a class="nav-link" href="../centers/delgoda.html">Delgoda</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Dewalapola</a>
+            <a class="nav-link" href="../centers/dewalapola.html">Dewalapola</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Divulapitiya</a>
+            <a class="nav-link" href="../centers/divulapitiya.html"
+              >Divulapitiya</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Divuldeniya</a>
+            <a class="nav-link" href="../centers/divuldeniya.html"
+              >Divuldeniya</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../centers/">Dompe</a>
+            <a class="nav-link" href="../centers/dompe.html">Dompe</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="../centers/">Dunagaha</a>
