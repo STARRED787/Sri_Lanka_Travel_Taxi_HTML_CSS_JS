@@ -1,13 +1,14 @@
 import os
 import glob
 
-# New list of locations
+# New list of locations (updated)
 locations = [
-    "Agalawatta", "Alubomulla", "Aluthgama", "Anguruwatota", "Baduraliya", "Bandaragama", "Beruwala", 
-    "Bulathsinhala", "Dharga Town", "Dodangoda", "Gonapola Junction", "Horana", "Ingiriya", 
-    "Kalutara", "Kananwila", "Kesbewa", "Kuda Uduwa", "Maggona", "Matugama", "Millaniya", 
-    "Millewa", "Morontuduwa", "Neboda", "Padagoda", "Panadura", "Pokunuwita", "Poruwedanda", 
-    "Wadduwa", "Waskaduwa", "Welipenna", "Welmilla Junction"
+    "Alawatta", "Dambulla", "Dankanda", "Devagiriya", "Dewahuwa", "Dullewa", 
+    "Elkaduwa", "Galewela", "Gammaduwa", "Handungamuwa", "Hattota Amuna", 
+    "Illukkumbura", "Inamaluwa", "Kaikawala", "Kandalama", "Kibissa", "Kiwula", 
+    "Kongahawela", "Laggala", "Pallegama", "Madawala Ulpotha", "Mahawela", 
+    "Matale", "Nalanda", "Naula", "Palapathwela", "Pallepola", "Raththota", 
+    "Sigiriya", "Ukuwela", "Wahakotte", "Yatawaththa"
 ]
 
 # Directory to save files
