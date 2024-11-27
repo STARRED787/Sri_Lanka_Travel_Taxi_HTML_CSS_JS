@@ -3,11 +3,11 @@ import glob
 
 # New list of locations (updated with the new locations)
 locations = [
-    "Addalaichenai", "Akkaraipattu", "Ampara", "Deegawapiya", "Dehiattakandiya", 
-    "Devalahinda", "Galapitagala", "Hingurana", "Kalmunai", "Kannakipuram", 
-    "Komari", "Lahugala", "Mahaoya", "Mangalagama", "Navithanveli", "Nintavur", 
-    "Oluvil", "Padiyatalawa", "Panama", "Pottuvil", "Rajagalatenna", "Sainthamaruthu", 
-    "Sammanthurai", "Siripura", "Siyambalawewa", "Tirukkovil", "Uhana"
+    "Adampan", "Arippu", "Athimottai", "Chilavathurai", "Erukkalampiddy", 
+    "Llluppaikadavai", "Madhu Church", "Madhu Road", "Mannar", "Murunkan", 
+    "Nanattan", "Palampiddy", "Periyakunchikulam", "Periyamadhu", "Pesalai", 
+    "Talaimannar", "Tharapuram", "Thiruketheeswaram", "Vaddakandal", 
+    "Vankalai", "Vellan Kulam", "Vidataltivu"
 ]
 
 # Directory to save files
