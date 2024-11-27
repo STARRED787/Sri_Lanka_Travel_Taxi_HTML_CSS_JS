@@ -1,14 +1,13 @@
 import os
 import glob
 
-# New list of locations (updated)
+# New list of locations (updated with the new locations)
 locations = [
-    "Ampilanthurai", "Batticaloa", "Chenkaladi", "Eravur", "Kalkudah", 
-    "Kallar", "Kaluwanchikudi", "Kaluwankerny", "Kannankudah", "Karadiyanaru", 
-    "Kathiraveli", "Kaththankudi", "Kiran", "Kirankulam", "Koddaikallar", 
-    "Kokkaddicholai", "Mandur", "Mankerni", "Oddamavadi", "Panichankerni", 
-    "Periyapullumalai", "Pillaiyaradi", "Punanai", "Puthukudiyiruppu", 
-    "Vakaneri", "Vakarai", "Valachchenai", "Vellavely"
+    "Addalaichenai", "Akkaraipattu", "Ampara", "Deegawapiya", "Dehiattakandiya", 
+    "Devalahinda", "Galapitagala", "Hingurana", "Kalmunai", "Kannakipuram", 
+    "Komari", "Lahugala", "Mahaoya", "Mangalagama", "Navithanveli", "Nintavur", 
+    "Oluvil", "Padiyatalawa", "Panama", "Pottuvil", "Rajagalatenna", "Sainthamaruthu", 
+    "Sammanthurai", "Siripura", "Siyambalawewa", "Tirukkovil", "Uhana"
 ]
 
 # Directory to save files
