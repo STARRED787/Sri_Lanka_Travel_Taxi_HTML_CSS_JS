@@ -1,20 +1,28 @@
 import os
+import glob
 
-# Updated list of locations
+# New list of locations
 locations = [
-    "Angunakolawewa", "Badalkumbura", "Balaharuwa", "Bibile", "Buddama", "Buttala", "Dambagalla",
-    "Dombagahawela", "Ethimale", "Ethiliwewa", "Galabedda", "Hambegamuwa", "Hulandawa", "Katharagama",
-    "Kiribbanwewa", "Medagama", "Monaragala", "Nilgala", "Okkampitiya", "Randeniya", "Sella Katharagama",
-    "Sewanagala", "Siyambalanduwa", "Thanamalwila", "Pelwatta", "Handapanagala", "Wellawaya"
+    "Agalawatta", "Alubomulla", "Aluthgama", "Anguruwatota", "Baduraliya", "Bandaragama", "Beruwala", 
+    "Bulathsinhala", "Dharga Town", "Dodangoda", "Gonapola Junction", "Horana", "Ingiriya", 
+    "Kalutara", "Kananwila", "Kesbewa", "Kuda Uduwa", "Maggona", "Matugama", "Millaniya", 
+    "Millewa", "Morontuduwa", "Neboda", "Padagoda", "Panadura", "Pokunuwita", "Poruwedanda", 
+    "Wadduwa", "Waskaduwa", "Welipenna", "Welmilla Junction"
 ]
 
 # Directory to save files
 output_dir = "taxi_services"
 
+# Remove all existing files in the directory
+if os.path.exists(output_dir):
+    files = glob.glob(os.path.join(output_dir, "*.html"))
+    for file in files:
+        os.remove(file)
+
 # Ensure the directory exists
 os.makedirs(output_dir, exist_ok=True)
 
-# Generate files
+# Generate files for the new locations
 for location in locations:
     # Create a valid filename
     filename = f"{location.replace(' ', '_').lower()}.html"
@@ -37,4 +45,4 @@ for location in locations:
         </html>
         """)
 
-print(f"HTML files have been successfully created in the '{output_dir}' folder.")
+print(f"HTML files for the new locations have been successfully created in the '{output_dir}' folder.")
