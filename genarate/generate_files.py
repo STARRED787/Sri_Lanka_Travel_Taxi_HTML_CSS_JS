@@ -3,16 +3,37 @@ import glob
 
 # New list of locations (updated with the new locations)
 locations = [
-    "Alawatura", "Algama", "Aluthnuwara", "Ambalakanda", "Ambulugala",
-    "Amitirigala", "Aranayaka", "Aruggammana", "Batuwita", "Beligala",
-    "Berannawa", "Bopitiya", "Bulathkohupitiya", "Debathgama", "Dehiowita",
-    "Deraniyagala", "Dewalegama", "Dewanagala", "Galapitamada", "Galatara",
-    "Galigamuwa", "Galpatha", "Hemmathagama", "Hingula", "Hinguralakanda",
-    "Hiriwadunna", "Imbulgasdeniya", "Kannaththota", "Kegalle", "Kithulgala",
-    "Kondeniya", "Kotiyakumbura", "Mawanella", "Migastenna", "Molagoda",
-    "Moronthota", "Nelundeniya", "Parape", "Pattampitiya", "Rambukkana",
-    "Ruwanwella", "Teligama", "Tholangamuwa", "Tulhiriya", "Ussapitiya",
-    "Warakapola", "Yatiyantota", "Yattogoda"
+    "Akuressa", 
+    "Aparekka", 
+    "Athuraliya", 
+    "Bopagoda", 
+    "Deiyandara", 
+    "Denagama", 
+    "Deniyaya", 
+    "Devinuwara", 
+    "Dikwella", 
+    "Gandara", 
+    "Hakmana", 
+    "Kamburugamuwa", 
+    "Kamburupitiya", 
+    "Kekanadura", 
+    "Kotapola", 
+    "Kottegoda", 
+    "Makandura", 
+    "Matara", 
+    "Mirissa", 
+    "Morawaka", 
+    "Mulatiyana Junction", 
+    "Palatuwa", 
+    "Pitabeddara", 
+    "Sultanagoda", 
+    "Telijjawila", 
+    "Thihagoda", 
+    "Urubokka", 
+    "Waralla", 
+    "Weligama", 
+    "Wilpita", 
+    "Yatiyana"
 ]
 
 
