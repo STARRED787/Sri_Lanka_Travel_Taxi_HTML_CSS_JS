@@ -3,12 +3,12 @@ import glob
 
 # New list of locations (updated)
 locations = [
-    "Alawatta", "Dambulla", "Dankanda", "Devagiriya", "Dewahuwa", "Dullewa", 
-    "Elkaduwa", "Galewela", "Gammaduwa", "Handungamuwa", "Hattota Amuna", 
-    "Illukkumbura", "Inamaluwa", "Kaikawala", "Kandalama", "Kibissa", "Kiwula", 
-    "Kongahawela", "Laggala", "Pallegama", "Madawala Ulpotha", "Mahawela", 
-    "Matale", "Nalanda", "Naula", "Palapathwela", "Pallepola", "Raththota", 
-    "Sigiriya", "Ukuwela", "Wahakotte", "Yatawaththa"
+    "Ampilanthurai", "Batticaloa", "Chenkaladi", "Eravur", "Kalkudah", 
+    "Kallar", "Kaluwanchikudi", "Kaluwankerny", "Kannankudah", "Karadiyanaru", 
+    "Kathiraveli", "Kaththankudi", "Kiran", "Kirankulam", "Koddaikallar", 
+    "Kokkaddicholai", "Mandur", "Mankerni", "Oddamavadi", "Panichankerni", 
+    "Periyapullumalai", "Pillaiyaradi", "Punanai", "Puthukudiyiruppu", 
+    "Vakaneri", "Vakarai", "Valachchenai", "Vellavely"
 ]
 
 # Directory to save files
