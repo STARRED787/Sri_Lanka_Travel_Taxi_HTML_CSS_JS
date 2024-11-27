@@ -3,13 +3,18 @@ import glob
 
 # New list of locations (updated with the new locations)
 locations = [
-    "Aralaganwila", "Aselapura", "Bakamuna", "Damminna", "Dimbulagala",
-    "Diyabeduma", "Diyasenpura", "Elahera", "Galamuna", "Galoya",
-    "Giritale", "Hingurakgoda", "Jayanthipura", "Jayasiripura", "Kawudulla",
-    "Maduruoya", "Manampitiya", "Medirigiriya", "Meegaswewa", "Minneriya",
-    "Nuwaragala", "Polonnaruwa", "Pulastigama", "Sevanapitiya", "Sinhagama",
-    "Thamankaduwa", "Welikanda", "Wijayabapura", "Yudaganawa"
+    "Alawatura", "Algama", "Aluthnuwara", "Ambalakanda", "Ambulugala",
+    "Amitirigala", "Aranayaka", "Aruggammana", "Batuwita", "Beligala",
+    "Berannawa", "Bopitiya", "Bulathkohupitiya", "Debathgama", "Dehiowita",
+    "Deraniyagala", "Dewalegama", "Dewanagala", "Galapitamada", "Galatara",
+    "Galigamuwa", "Galpatha", "Hemmathagama", "Hingula", "Hinguralakanda",
+    "Hiriwadunna", "Imbulgasdeniya", "Kannaththota", "Kegalle", "Kithulgala",
+    "Kondeniya", "Kotiyakumbura", "Mawanella", "Migastenna", "Molagoda",
+    "Moronthota", "Nelundeniya", "Parape", "Pattampitiya", "Rambukkana",
+    "Ruwanwella", "Teligama", "Tholangamuwa", "Tulhiriya", "Ussapitiya",
+    "Warakapola", "Yatiyantota", "Yattogoda"
 ]
+
 
 # Directory to save files
 output_dir = "taxi_services"
