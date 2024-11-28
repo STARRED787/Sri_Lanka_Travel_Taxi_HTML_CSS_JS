@@ -1,620 +1,459 @@
 remove this locations add blow location to <a>
 
-
-
-[26/11, 12:25 pm] Shaluka: *KEGALLE DISTRICT*
-
-Alawatura Taxi/Cab Service
-Algama Taxi/Cab Service
-Aluthnuwara Taxi/Cab Service
-Ambalakanda Taxi/Cab Service
-Ambulugala Taxi/Cab Service
-Amitirigala Taxi/Cab Service 
-Aranayaka Taxi/Cab Service
-Aruggammana Taxi/Cab Service 
-Batuwita Taxi/Cab Service
-Beligala Taxi/Cab Service
-Berannawa Taxi/Cab Service
-Bopitiya Taxi/Cab Service 
-Bulathkohupitiya Taxi/Cab Service 
-Debathgama Taxi/Cab Service 
-Dehiowita Taxi/Cab Service 
-Deraniyagala Taxi/Cab Service
-Dewalegama Taxi/Cab Service
-Dewanagala Taxi/Cab Service 
-Galapitamada Taxi/Cab Service
-Galatara Taxi/Cab Service
-Galigamuwa Taxi/Cab Service
-Galpatha Taxi/Cab Service 
-Hemmathagama Taxi/Cab Service 
-Hingula Taxi/Cab Service
-Hinguralakanda Taxi/Cab Service
-Hiriwadunna Taxi/Cab Service 
-Imbulgasdeniya Taxi/Cab Service 
-Kannaththota Taxi/Cab Service
-Kegalle Taxi/Cab Service 
-Kithulgala Taxi/Cab Service
-Kondeniya Taxi/Cab Service
-Kotiyakumbura Taxi/Cab Service  
-Mawanella Taxi/Cab Service
-Migastenna Taxi/Cab Service 
-Molagoda Taxi/Cab Service
-Moronthota Taxi/Cab Service
-Nelundeniya Taxi/Cab Service 
-Parape Taxi/Cab Service
-Pattampitiya Taxi/Cab Service 
-Rambukkana Taxi/Cab Service
-Ruwanwella Taxi/Cab Service 
-Teligama Taxi/Cab Service
-Tholangamuwa Taxi/Cab Service 
-Tulhiriya Taxi/Cab Service 
-Ussapitiya Taxi/Cab Service 
-Warakapola Taxi/Cab Service 
-Yatiyantota Taxi/Cab Service
-Yattogoda Taxi/Cab Service
-
-[26/11, 12:25 pm] Shaluka: *MATARA DISTRICT*
-
-Akuressa Taxi/Cab Service 
-Aparekka Taxi/Cab Service
-Athuraliya Taxi/Cab Service 
-Bopagoda Taxi/Cab Service 
-Deiyandara Taxi/Cab Service 
-Denagama Taxi/Cab Service 
-Deniyaya Taxi/Cab Service 
-Devinuwara Taxi/Cab Service
-Dikwella Taxi/Cab Service 
-Gandara Taxi/Cab Service 
-Hakmana Taxi/Cab Service 
-Kamburugamuwa Taxi/Cab Service
-Kamburupitiya Taxi/Cab Service 
-Kekanadura Taxi/Cab Service 
-Kotapola Taxi/Cab Service
-Kottegoda Taxi/Cab Service 
-Makandura Taxi/Cab Service 
-Matara Taxi/Cab Service 
-Mirissa Taxi/Cab Service 
-Morawaka Taxi/Cab Service
-Mulatiyana Junction Taxi/Cab Service 
-Palatuwa Taxi/Cab Service 
-Pitabeddara Taxi/Cab Service 
-Sultanagoda Taxi/Cab Service
-Telijjawila Taxi/Cab Service
-Thihagoda Taxi/Cab Service
-Urubokka Taxi/Cab Service 
-Waralla Taxi/Cab Service
-Weligama Taxi/Cab Service
-Wilpita Taxi/Cab Service
-Yatiyana Taxi/Cab Service
-
 [26/11, 12:25 pm] Shaluka: *BADULLA DISTRICT* 
   
-Ambagasdowa Taxi/Cab Service 
-Badulla Taxi/Cab Service 
-Bandarawela Taxi/Cab Service 
-Bibilegama Taxi/Cab Service 
-Boragas Taxi/Cab Service
-Boralanda Taxi/Cab Service
-Bowela Taxi/Cab Service
-Dambana Taxi/Cab Service
-Demodara Taxi/Cab Service 
-Diyatalawa Taxi/Cab Service 
-Ella Taxi/Cab Service
-Ettampitiya Taxi/Cab Service 
-Girandurukotte Taxi/Cab Service 
-Gurutalawa Taxi/Cab Service
-Haldummulla Taxi/Cab Service
-Hali Ela Taxi/Cab Service 
-Haputale Taxi/Cab Service 
-Heeloya Taxi/Cab Service 
-Idalgashinna Taxi/Cab Service 
-Kalupahana Taxi/Cab Service
-Kandaketiya Taxi/Cab Service
-Kandegedara Taxi/Cab Service 
-Keppetipola Taxi/Cab Service 
-Koslanda Taxi/Cab Service 
-Lunugala Taxi/Cab Service
-Lunuwatte Taxi/Cab Service
-Madulsima Taxi/Cab Service
-Mahiyanganaya Taxi/Cab Service 
-Maliyadda Taxi/Cab Service
-Mapakadawewa Taxi/Cab Service
-Maspanna Taxi/Cab Service 
-Meegahakiula Taxi/Cab Service 
-Mirahawatta Taxi/Cab Service  
-Namunukula Taxi/Cab Service
-Narangala Taxi/Cab Service 
-Nikapotha Taxi/Cab Service
-Nugatalawa Taxi/Cab Service
-Ohiya Taxi/Cab Service 
-Passara Taxi/Cab Service 
-Ridimaliyadda Taxi/Cab Service 
-Spring Valley Taxi/Cab Service  
-Deegalla Taxi/Cab Service 
-Uduwara Taxi/Cab Service
-Uvaparanagama Taxi/Cab Service
-Welimada Taxi/Cab Service
-
-[26/11, 12:25 pm] Shaluka: *JAFFNA DISTRICT*
-
-Allaipiddi Taxi/Cab Service 
-Chavakachcheri Taxi/Cab Service 
-Delft Taxi/Cab Service 
-Jaffna Taxi/Cab Service
-Kayts Taxi/Cab Service
-Kodikamam Taxi/Cab Service
-Kokuvil Taxi/Cab Service
-Kondavil Taxi/Cab Service
-Kopay Taxi/Cab Service 
-Manipay Taxi/Cab Service
-Mathagal Taxi/Cab Service
-Meesalai Taxi/Cab Service
-Mirusuvil Taxi/Cab Service
-Nagar Kovil Taxi/Cab Service
-Nagar Kovil Tax/Cab Service
-Nainathivu Taxi/Cab Service 
-Karainagar Taxi/Cab Service 
-Point Pedro Taxi/Cab Service 
-Putur Taxi/Cab Service 
-Tellippallai Taxi/Cab Service 
-Urumpirai Taxi/Cab Service 
-Valvettithurai Taxi/Cab Service 
-Kankesanthurai Taxi/Cab Service
-
-[26/11, 12:25 pm] Shaluka: *BADULLA DISTRICT* 
-  
-Ambagasdowa Taxi/Cab Service 
-Badulla Taxi/Cab Service 
-Bandarawela Taxi/Cab Service 
-Bibilegama Taxi/Cab Service 
-Boragas Taxi/Cab Service
-Boralanda Taxi/Cab Service
-Bowela Taxi/Cab Service
-Dambana Taxi/Cab Service
-Demodara Taxi/Cab Service 
-Diyatalawa Taxi/Cab Service 
-Ella Taxi/Cab Service
-Ettampitiya Taxi/Cab Service 
-Girandurukotte Taxi/Cab Service 
-Gurutalawa Taxi/Cab Service
-Haldummulla Taxi/Cab Service
-Hali Ela Taxi/Cab Service 
-Haputale Taxi/Cab Service 
-Heeloya Taxi/Cab Service 
-Idalgashinna Taxi/Cab Service 
-Kalupahana Taxi/Cab Service
-Kandaketiya Taxi/Cab Service
-Kandegedara Taxi/Cab Service 
-Keppetipola Taxi/Cab Service 
-Koslanda Taxi/Cab Service 
-Lunugala Taxi/Cab Service
-Lunuwatte Taxi/Cab Service
-Madulsima Taxi/Cab Service
-Mahiyanganaya Taxi/Cab Service 
-Maliyadda Taxi/Cab Service
-Mapakadawewa Taxi/Cab Service
-Maspanna Taxi/Cab Service 
-Meegahakiula Taxi/Cab Service 
-Mirahawatta Taxi/Cab Service  
-Namunukula Taxi/Cab Service
-Narangala Taxi/Cab Service 
-Nikapotha Taxi/Cab Service
-Nugatalawa Taxi/Cab Service
-Ohiya Taxi/Cab Service 
-Passara Taxi/Cab Service 
-Ridimaliyadda Taxi/Cab Service 
-Spring Valley Taxi/Cab Service  
-Deegalla Taxi/Cab Service 
-Uduwara Taxi/Cab Service
-Uvaparanagama Taxi/Cab Service
-Welimada Taxi/Cab Service
+Ambagasdowa 
+Badulla 
+Bandarawela 
+Bibilegama 
+Boragas 
+Boralanda 
+Bowela 
+Dambana 
+Demodara 
+Diyatalawa 
+Ella 
+Ettampitiya 
+Girandurukotte 
+Gurutalawa 
+Haldummulla 
+Hali Ela 
+Haputale 
+Heeloya 
+Idalgashinna 
+Kalupahana 
+Kandaketiya 
+Kandegedara 
+Keppetipola 
+Koslanda 
+Lunugala 
+Lunuwatte 
+Madulsima 
+Mahiyanganaya 
+Maliyadda 
+Mapakadawewa 
+Maspanna 
+Meegahakiula 
+Mirahawatta  
+Namunukula 
+Narangala 
+Nikapotha 
+Nugatalawa 
+Ohiya 
+Passara 
+Ridimaliyadda 
+Spring Valley  
+Deegalla 
+Uduwara 
+Uvaparanagama 
+Welimada 
 
 [26/11, 12:25 pm] Shaluka: *KANDY DISTRICT*
 
-Akurana Taxi/Cab Service
-Alawathugoda Taxi/Cab Service
-Aludeniya Taxi/Cab Service 
-Ambathenna Taxi/Cab Service
-Ampitiya Taxi/Cab Service
-Ankumbura Taxi/Cab Service
-Atabage Taxi/Cab Service
-Balana Taxi/Cab Service 
-Danture Taxi/Cab Service 
-Deltota Taxi/Cab Service 
-Dolosbage Taxi/Cab Service
-Doluwa Taxi/Cab Service 
-Galaboda Taxi/Cab Service
-Galagedara Taxi/Cab Service
-Galaha Taxi/Cab Service
-Galhinna Taxi/Cab Service 
-Gampola Taxi/Cab Service
-Gelioya Taxi/Cab Service 
-Gurudeniya Taxi/Cab Service
-Halloluwa Taxi/Cab Service 
-Hanguranketha Taxi/Cab Service 
-Hasalaka Taxi/Cab Service
-Hataraliyadda Taxi/Cab Service
-Hewaheta Taxi/Cab Service 
-Hunnasgiriya Taxi/Cab Service 
-Kadugannawa Taxi/Cab Service 
-Kandy Taxi/Cab Service 
-Katugastota Taxi/Cab Service
-Kengalla Taxi/Cab Service 
-Kiribathkumbura Taxi/Cab Service 
-Kundasale Taxi/Cab Service 
-Madawala Taxi/Cab Service
-Madugalla Taxi/Cab Service
-Madulkele Taxi/Cab Service 
-Makuldeniya Taxi/Cab Service
-Mandaram Nuwara Taxi/Cab Service
-Mapakanda Taxi/Cab Service
-Marassana Taxi/Cab Service 
-Mathurata Taxi/Cab Service 
+Akurana 
+Alawathugoda 
+Aludeniya 
+Ambathenna 
+Ampitiya 
+Ankumbura 
+Atabage 
+Balana 
+Danture 
+Deltota 
+Dolosbage 
+Doluwa 
+Galaboda 
+Galagedara 
+Galaha 
+Galhinna 
+Gampola 
+Gelioya 
+Gurudeniya 
+Halloluwa 
+Hanguranketha 
+Hasalaka 
+Hataraliyadda 
+Hewaheta 
+Hunnasgiriya 
+Kadugannawa 
+Kandy 
+Katugastota 
+Kengalla 
+Kiribathkumbura 
+Kundasale 
+Madawala 
+Madugalla 
+Madulkele 
+Makuldeniya 
+Mandaram Nuwara 
+Mapakanda 
+Marassana 
+Mathurata 
 Medamahanuwara Taxi/Cab 
-Harispattuwa Taxi/Cab Service  
-Menikdiwela Taxi/Cab Service
-Menikhinna Taxi/Cab Service
-Meemure Taxi/Cab Service 
-Minipe Taxi/Cab Service
-Muruthalawa Taxi/Cab Service 
-Naranpanawa Taxi/Cab Service 
-Nawalapitiya Taxi/Cab Service 
-Nugaliyadda Taxi/Cab Service
-Nugawela Taxi/Cab Service 
-Peradeniya Taxi/Cab Service 
-Pilimathalawa Taxi/Cab Service 
-Polgolla Taxi/Cab Service
-Poojapitiya Taxi/Cab Service 
-Pussellawa Taxi/Cab Service 
-Rajawella Taxi/Cab Service 
-Rambukwella Taxi/Cab Service
-Rangala Taxi/Cab Service
-Rantembe Taxi/Cab Service 
-Rikillagaskada Taxi/Cab Service 
-Thalathuoya Taxi/Cab Service
-Thawalanthenna Taxi/Cab Service
-Teldeniya Taxi/Cab Service
-Thennekumbura Taxi/Cab Service 
-Udahenthenna Taxi/Cab Service 
-Udathalavinna Taxi/Cab Service
-Udawatta Taxi/Cab Service
-Udispathtjuwa Taxi/Cab Service
-Ududumbara Taxi/Cab Service 
-Uduwela Taxi/Cab Service
-Ulapane Taxi/Cab Service 
-Wattegama Taxi/Cab Service 
-Weligalla Taxi/Cab Service
-Weligampola Taxi/Cab Service
-Wendaruwa Taxi/Cab Service 
-Alagalla Taxi/Cab Service
-Amunugama Taxi/Cab Service 
-Bahirawakande Taxi/Cab Service 
-Bokkawala Taxi/Cab Service 
-Galabawa Taxi/Cab Service 
-Hanthana Taxi/Cab Service 
-Katukele Taxi/Cab Service 
-Mahaiyawa Taxi/Cab Service 
-Mavilmada Taxi/Cab Service
+Harispattuwa  
+Menikdiwela 
+Menikhinna 
+Meemure 
+Minipe 
+Muruthalawa 
+Naranpanawa 
+Nawalapitiya 
+Nugaliyadda 
+Nugawela 
+Peradeniya 
+Pilimathalawa 
+Polgolla 
+Poojapitiya 
+Pussellawa 
+Rajawella 
+Rambukwella 
+Rangala 
+Rantembe 
+Rikillagaskada 
+Thalathuoya 
+Thawalanthenna 
+Teldeniya 
+Thennekumbura 
+Udahenthenna 
+Udathalavinna 
+Udawatta 
+Udispathtjuwa 
+Ududumbara 
+Uduwela 
+Ulapane 
+Wattegama 
+Weligalla 
+Weligampola 
+Wendaruwa 
+Alagalla 
+Amunugama 
+Bahirawakande 
+Bokkawala 
+Galabawa 
+Hanthana 
+Katukele 
+Mahaiyawa 
+Mavilmada 
 
 [26/11, 12:25 pm] Shaluka: *TRINCOMALEE DISTRICT*
 
-Agbopura Taxi/Cab Service 
-Chinabay Taxi/Cab Service 
-Galmetiyawa Taxi/Cab Service
-Gomarankadawala Taxi/Cab Service
-Kaddaiparichchan Taxi/Cab Service
-Kanniya Taxi/Cab Service
-Kantale Taxi/Cab Service 
-Kinniya Taxi/Cab Service
-Kuchchaveli Taxi/Cab Service 
-Kurinchakerny Taxi/Cab Service
-Lankapatuna Taxi/Cab Service
-Mahadivulwewa Taxi/Cab Service 
-Mawadichchenai Taxi/Cab Service 
-Muttur Taxi/Cab Service 
-Nilaveli Taxi/Cab Service 
-Sampur Taxi/Cab Service
-Serunuwara Taxi/Cab Service
-Seruwila Taxi/Cab Service 
-Somapura Taxi/Cab Service 
-Tiriyayi Taxi/Cab Service
-Toppur Taxi/Cab Service
-Trincomalee Taxi/Cab Service
+Agbopura 
+Chinabay 
+Galmetiyawa 
+Gomarankadawala 
+Kaddaiparichchan 
+Kanniya 
+Kantale 
+Kinniya 
+Kuchchaveli 
+Kurinchakerny 
+Lankapatuna 
+Mahadivulwewa 
+Mawadichchenai 
+Muttur 
+Nilaveli 
+Sampur 
+Serunuwara 
+Seruwila 
+Somapura 
+Tiriyayi 
+Toppur 
+Trincomalee 
 
 [26/11, 12:25 pm] Shaluka: *NUWARA ELIYA DISTRICT*
 
-Agarapathana Taxi/Cab Service 
-Bogawantalawa Taxi/Cab Service
-Degampitiya Taxi/Cab Service
-Dayagama Bazaar Taxi/Cab Service
-Dikoya Taxi/Cab Service 
-Ginigathhena Taxi/Cab Service 
-Hakgala Taxi/Cab Service 
-Hapugastalawa Taxi/Cab Service 
-Harasbedda Taxi/Cab Service
-Hatton Taxi/Cab Service 
-Kandapola Taxi/Cab Service
-Katukitula Taxi/Cab Service 
-Kotagala Taxi/Cab Service
-Kotmale Taxi/Cab Service 
-Labukele Taxi/Cab Service
-Laxapana Taxi/Cab Service 
-Maldeniya Taxi/Cab Service
-Maskeliya Taxi/Cab Service 
-Mipanawa Taxi/Cab Service
-Mipilimana Taxi/Cab Service 
-Nanuoya Taxi/Cab Service
-Nawathispane Taxi/Cab Service 
-Norwood Taxi/Cab Service
-Nuwara Eliya Taxi/Cab Service
-Padiyapelella Taxi/Cab Service
-Patana Taxi/Cab Service
-Pitawala Taxi/Cab Service
-Pundaluoya Taxi/Cab Service
-Ramboda Taxi/Cab Service 
-Santhipura Taxi/Cab Service
-Talawakele Taxi/Cab Service 
-Udamadura Taxi/Cab Service
-Udapussallawa Taxi/Cab Service
-Walapane Taxi/Cab Service 
-Watawala Taxi/Cab Service
+Agarapathana 
+Bogawantalawa 
+Degampitiya 
+Dayagama Bazaar 
+Dikoya 
+Ginigathhena 
+Hakgala 
+Hapugastalawa 
+Harasbedda 
+Hatton 
+Kandapola 
+Katukitula 
+Kotagala 
+Kotmale 
+Labukele 
+Laxapana 
+Maldeniya 
+Maskeliya 
+Mipanawa 
+Mipilimana 
+Nanuoya 
+Nawathispane 
+Norwood 
+Nuwara Eliya 
+Padiyapelella 
+Patana 
+Pitawala 
+Pundaluoya 
+Ramboda 
+Santhipura 
+Talawakele 
+Udamadura 
+Udapussallawa 
+Walapane 
+Watawala 
 
 [26/11, 12:25 pm] Shaluka: *Mullaitivu District*
 
-Alampil Taxi/Cab Service
-Karuppaddamurippu Taxi/Cab Service
-Kokkilai Taxi/Cab Service
-Kokkuthuoduvai Taxi/Cab Service
-Mankulam Taxi/Cab Service
-Mullativu Taxi/Cab Service
-Mullivaikkal Taxi/Cab Service
-Mulliyawalai Taxi/Cab Service
-Odduchudan Taxi/Cab Service
-Puthuvedduvan Taxi/Cab Service
-Thunukkai Taxi/Cab Service
-Udayarkaddu Taxi/Cab Service
-Vavunakkulam Taxi/Cab Service
-Visvamadukulam Taxi/Cab Service
+Alampil 
+Karuppaddamurippu 
+Kokkilai 
+Kokkuthuoduvai 
+Mankulam 
+Mullativu 
+Mullivaikkal 
+Mulliyawalai 
+Odduchudan 
+Puthuvedduvan 
+Thunukkai 
+Udayarkaddu 
+Vavunakkulam 
+Visvamadukulam 
 
 [26/11, 12:25 pm] Shaluka: *ANURADHAPURA DISTRICT*
 
  
  
-Anuradhapura Taxi/Cab Service
-Awukana Taxi/Cab Service 
-Dutuwewa Taxi/Cab Service 
-Eppawala Taxi/Cab Service
-Ethawetunawewa Taxi/Cab Service
-Galenbindunuwewa Taxi/Cab Service 
-Galkiriyagama Taxi/Cab Service
-Galkulama Taxi/Cab Service
-Galnewa Taxi/Cab Service
-Gemunupura Taxi/Cab Service 
-Habarana Taxi/Cab Service
-Horawpathana Taxi/Cab Service
-Hurigaswewa Taxi/Cab Service 
-Ipologama Taxi/Cab Service 
-Kahatagasdigiliya Taxi/Cab Service 
-Kalaoya Taxi/Cab Service
-Katiyawa Taxi/Cab Service
-Kebithigollewa Taxi/Cab Service
-Kekirawa Taxi/Cab Service 
-Madatugama Taxi/Cab Service
-Mahailluppallama Taxi/Cab Service 
-Mahasenpura Taxi/Cab Service
-Mahawilachchiya Taxi/Cab Service
-Mailagaswewa Taxi/Cab Service 
-Maradankadawala Taxi/Cab Service 
-Medawachchiya Taxi/Cab Service
-Mihinthale Taxi/Cab Service 
+Anuradhapura 
+Awukana 
+Dutuwewa 
+Eppawala 
+Ethawetunawewa 
+Galenbindunuwewa 
+Galkiriyagama 
+Galkulama 
+Galnewa 
+Gemunupura 
+Habarana 
+Horawpathana 
+Hurigaswewa 
+Ipologama 
+Kahatagasdigiliya 
+Kalaoya 
+Katiyawa 
+Kebithigollewa 
+Kekirawa 
+Madatugama 
+Mahailluppallama 
+Mahasenpura 
+Mahawilachchiya 
+Mailagaswewa 
+Maradankadawala 
+Medawachchiya 
+Mihinthale 
 Nachchaduwa Taxi Service 
-Nochchiyagama Taxi/Cab Service 
-Padaviya Taxi/Cab Service
-Palugaswewa Taxi/Cab Service
-Pandukabayapura Taxi/Cab Service
-Pandulagama Taxi/Cab Service
-Parakumpura Taxi/Cab Service 
-Perimiyankulama Taxi/Cab Service 
-Pubbogama Taxi/Cab Service
-Punewa Taxi/Cab Service
-Rajanganaya Taxi/Cab Service
-Rambewa Taxi/Cab Service 
-Saliyapura Taxi/Cab Service
-Seeppukulama Taxi/Cab Service
-Senapura Taxi/Cab Service 
-Sravasthipura Taxi/Cab Service
-Thalawa Taxi/Cab Service
+Nochchiyagama 
+Padaviya 
+Palugaswewa 
+Pandukabayapura 
+Pandulagama 
+Parakumpura 
+Perimiyankulama 
+Pubbogama 
+Punewa 
+Rajanganaya 
+Rambewa 
+Saliyapura 
+Seeppukulama 
+Senapura 
+Sravasthipura 
+Thalawa 
 Thambuththegama Taxi/Cab 
-Thantirimale Taxi/Cab Service 
-Tirappane Taxi/Cab Service 
-Vijithapura Taxi/Cab Service  
-Welioya Taxi/Cab Service
+Thantirimale 
+Tirappane 
+Vijithapura  
+Welioya 
 
 [26/11, 12:25 pm] Shaluka: *KURUNEGALA DISTRICT* 
  
  
-Alawwa Taxi/Cab Service 
-Ambanpola Taxi/Cab Service 
-Awulegama Taxi/Cab Service
-Balalla Taxi/Cab Service 
-Bingiriya Taxi/Cab Service 
-Bopitiya Taxi/Cab Service 
-Boyagane Taxi/Cab Service 
-Dambadeniya Taxi/Cab Service
-Daraluwa Taxi/Cab Service
-Deegalla Taxi/Cab Service 
-Diddeniya Taxi/Cab Service 
-Dodangaslanda Taxi/Cab Service
-Doratiyawa Taxi/Cab Service
-Dummalasuriya Taxi/Cab Service
-Ehetuwewa Taxi/Cab Service 
-Galgamuwa Taxi/Cab Service 
-Giriulla Taxi/Cab Service
-Gokarella Taxi/Cab Service 
-Halmillawewa Taxi/Cab Service 
-Hettipola Taxi/Cab Service 
-Ibbagamuwa Taxi/Cab Service 
-Kadigawa Taxi/Cab Service 
-Kalugamuwa Taxi/Cab Service 
-Katupota Taxi/Cab Service
-Kekunagolla Taxi/Cab Service 
-Kirimetiyawa Taxi/Cab Service 
-Kobeigane Taxi/Cab Service 
-Konwewa Taxi/Cab Service 
-Kosgolla Taxi/Cab Service
-Kotawehera Taxi/Cab Service 
-Kuliyapitiya Taxi/Cab Service
-Kumbukgete Taxi/Cab Service
-Kumbukwewa Taxi/Cab Service 
-Kurunegala Taxi/Cab Service 
-Maeliya Taxi/Cab Service 
-Maho Taxi/Cab Service
-Makulewa Taxi/Cab Service
-Makulpotha Taxi/Cab Service 
-Maspotha Taxi/Cab Service
-Mawathagama Taxi/Cab Service 
-Meegalewa Taxi/Cab Service 
-Melsiripura Taxi/Cab Service 
-Metiyagane Taxi/Cab Service 
-Minuwangete Taxi/Cab Service 
-Moragollagama Taxi/Cab Service 
-Nagollagama Taxi/Cab Service 
-Nakkawatta Taxi/Cab Service
-Narammala Taxi/Cab Service 
-Nelliya Taxi/Cab Service
-Nikadalupotha Taxi/Cab Service
-Nikaweratiya Taxi/Cab Service
-Padeniya Taxi/Cab Service 
-Pannala Taxi/Cab Service 
-Pilessa Taxi/Cab Service
-Polgahawela Taxi/Cab Service
-Polpitigama Taxi/Cab Service
-Pothuhera Taxi/Cab Service 
-Ridigama Taxi/Cab Service 
-Siyambalangamuwa Taxi/Cab Service 
-Thalakolawewa Taxi/Cab Service 
-Torayaya Taxi/Cab Service 
-Uhumiya Taxi/Cab Service 
-Wadakada Taxi/Cab Service 
-Wariyapola Taxi/Cab Service 
-Wellawa Taxi/Cab Service 
-Weuda Taxi/Cab Service
+Alawwa 
+Ambanpola 
+Awulegama 
+Balalla 
+Bingiriya 
+Bopitiya 
+Boyagane 
+Dambadeniya 
+Daraluwa 
+Deegalla 
+Diddeniya 
+Dodangaslanda 
+Doratiyawa 
+Dummalasuriya 
+Ehetuwewa 
+Galgamuwa 
+Giriulla 
+Gokarella 
+Halmillawewa 
+Hettipola 
+Ibbagamuwa 
+Kadigawa 
+Kalugamuwa 
+Katupota 
+Kekunagolla 
+Kirimetiyawa 
+Kobeigane 
+Konwewa 
+Kosgolla 
+Kotawehera 
+Kuliyapitiya 
+Kumbukgete 
+Kumbukwewa 
+Kurunegala 
+Maeliya 
+Maho 
+Makulewa 
+Makulpotha 
+Maspotha 
+Mawathagama 
+Meegalewa 
+Melsiripura 
+Metiyagane 
+Minuwangete 
+Moragollagama 
+Nagollagama 
+Nakkawatta 
+Narammala 
+Nelliya 
+Nikadalupotha 
+Nikaweratiya 
+Padeniya 
+Pannala 
+Pilessa 
+Polgahawela 
+Polpitigama 
+Pothuhera 
+Ridigama 
+Siyambalangamuwa 
+Thalakolawewa 
+Torayaya 
+Uhumiya 
+Wadakada 
+Wariyapola 
+Wellawa 
+Weuda 
 
 [26/11, 12:25 pm] Shaluka: *RATHNAPURA DISTRICT*
  
-Ayagama Taxi/Cab Service
-Balangoda Taxi/Cab Service 
-Belihuloya Taxi/Cab Service 
-Dodampe Taxi/Cab Service 
-Eheliyagoda Taxi/Cab Service
-Elapatha Taxi/Cab Service 
-Ellawala Taxi/Cab Service
-Embilipitiya Taxi/Cab Service
-Erathna Taxi/Cab Service 
-Getahetta Taxi/Cab Service 
-Godagampola Taxi/Cab Service
-Godakawela Taxi/Cab Service 
-Halpe Taxi/Cab Service 
-Hapugasthenna Taxi/Cab Service
-Hatangala Taxi/Cab Service
-Kahawatta Taxi/Cab Service
-Kalawana Taxi/Cab Service
-Kalthota Taxi/Cab Service 
-Kiriella Taxi/Cab Service 
-Kolonna Taxi/Cab Service 
-Kuruwita Taxi/Cab Service
-Lellopitiya Taxi/Cab Service 
-Nawalakanda Taxi/Cab Service 
-Nivitigala Taxi/Cab Service 
-Opanayake Taxi/Cab Service
-Padalangala Taxi/Cab Service
-Pallebedda Taxi/Cab Service
-Pambagolla Taxi/Cab Service
-Panamura Taxi/Cab Service
-Panapitiya Taxi/Cab Service 
-Panawala Taxi/Cab Service
-Parakaduwa Taxi/Cab Service 
-Pelmadulla Taxi/Cab Service 
-Pinnawala Taxi/Cab Service
-Pothupitiya Taxi/Cab Service 
-Rakwana Taxi/Cab Service
-Ranwala Taxi/Cab Service
-Rassagala Taxi/Cab Service 
-Ratnapura Taxi/Cab Service
-Samanalawewa Taxi/Cab Service
-Palabaddala Taxi/Cab Service
-Sudagala Taxi/Cab Service
-Thalakolahinna Taxi/Cab Service  
-Udakarawita Taxi/Cab Service 
-Udawalawa Taxi/Cab Service 
-Weligepola Taxi/Cab Service
+Ayagama 
+Balangoda 
+Belihuloya 
+Dodampe 
+Eheliyagoda 
+Elapatha 
+Ellawala 
+Embilipitiya 
+Erathna 
+Getahetta 
+Godagampola 
+Godakawela 
+Halpe 
+Hapugasthenna 
+Hatangala 
+Kahawatta 
+Kalawana 
+Kalthota 
+Kiriella 
+Kolonna 
+Kuruwita 
+Lellopitiya 
+Nawalakanda 
+Nivitigala 
+Opanayake 
+Padalangala 
+Pallebedda 
+Pambagolla 
+Panamura 
+Panapitiya 
+Panawala 
+Parakaduwa 
+Pelmadulla 
+Pinnawala 
+Pothupitiya 
+Rakwana 
+Ranwala 
+Rassagala 
+Ratnapura 
+Samanalawewa 
+Palabaddala 
+Sudagala 
+Thalakolahinna  
+Udakarawita 
+Udawalawa 
+Weligepola 
 
 [26/11, 12:25 pm] Shaluka: *GALLE DISTRICT*
  
-Ahangama Taxi/Cab Service
-Ahungalla Taxi/Cab Service
-Akmeemana Taxi/Cab Service 
-Ambalangoda Taxi/Cab Service 
-Baddegama Taxi/Cab Service
-Balapitiya Taxi/Cab Service 
-Batapola Taxi/Cab Service
-Bentota Taxi/Cab Service
-Boossa Taxi/Cab Service 
-Dodanduwa Taxi/Cab Service 
-Elpitiya Taxi/Cab Service
-Ethkandura Taxi/Cab Service
-Galle Taxi/Cab Service 
-Gintota Taxi/Cab Service 
-Gonapinuwala Taxi/Cab Service
-Habaraduwa Taxi/Cab Service 
-Hikkaduwa Taxi/Cab Service
-Hiniduma Taxi/Cab Service 
-Imaduwa Taxi/Cab Service
-Induruwa Taxi/Cab Service 
-Kahawa Taxi/Cab Service
-Kananke Bazaar Taxi/Cab Service 
-Karandeniya Taxi/Cab Service
-Kosgoda Taxi/Cab Service 
-Mapalagama Taxi/Cab Service 
-Nagoda Taxi/Cab Service 
-Neluwa Taxi/Cab Service 
-Opatha Taxi/Cab Service
-Panangala Taxi/Cab Service 
-Rathgama Taxi/Cab Service 
-Thalpe Taxi/Cab Service
-Thawalama Taxi/Cab Service 
-Unawatuna Taxi/Cab Service 
-Uragaha Taxi/Cab Service
-Uragasmanhandiya Taxi/Cab Service 
-Wanduramba Taxi/Cab Service 
-Watugedara Taxi/Cab Service 
-Yakkalamulla Taxi/Cab Service 
-Opatha Taxi/Cab Service
+Ahangama 
+Ahungalla 
+Akmeemana 
+Ambalangoda 
+Baddegama 
+Balapitiya 
+Batapola 
+Bentota 
+Boossa 
+Dodanduwa 
+Elpitiya 
+Ethkandura 
+Galle 
+Gintota 
+Gonapinuwala 
+Habaraduwa 
+Hikkaduwa 
+Hiniduma 
+Imaduwa 
+Induruwa 
+Kahawa 
+Kananke Bazaar 
+Karandeniya 
+Kosgoda 
+Mapalagama 
+Nagoda 
+Neluwa 
+Opatha 
+Panangala 
+Rathgama 
+Thalpe 
+Thawalama 
+Unawatuna 
+Uragaha 
+Uragasmanhandiya 
+Wanduramba 
+Watugedara 
+Yakkalamulla 
+Opatha 
 
 [26/11, 12:25 pm] Shaluka: *HAMBANTOTA*
 
 
-Ambalantota Taxi/Cab Service
-Angunakolapelessa Taxi/Cab Service 
-Barawakumbuka Taxi/Cab Service
-Beliatta Taxi/Cab Service 
-Bundala Taxi/Cab Service 
-Hambantota Taxi/Cab Service 
-Hungama Taxi/Cab Service 
-Kawanthissapura Taxi/Cab Service
-Kirama Taxi/Cab Service
-Kirinda Taxi/Cab Service 
-Lunugamwehera Taxi/Cab Service
-Magama Taxi/Cab Service 
-Middeniya Taxi/Cab Service 
-Mulkirigala Taxi/Cab Service
-Nakulugamuwa Taxi/Cab Service 
-Ranmuduwewa Taxi/Cab Service
-Ranna Taxi/Cab Service 
-Ridiyagama Taxi/Cab Service
-Sooriyawewa Taxi/Cab Service
-Tangalle Taxi/Cab Service
-Tissamaharama Taxi/Cab Service 
-Walasmulla Taxi/Cab Service
-Weeraketiya Taxi/Cab Service 
-Weerawila Taxi/Cab Service
+Ambalantota 
+Angunakolapelessa 
+Barawakumbuka 
+Beliatta 
+Bundala 
+Hambantota 
+Hungama 
+Kawanthissapura 
+Kirama 
+Kirinda 
+Lunugamwehera 
+Magama 
+Middeniya 
+Mulkirigala 
+Nakulugamuwa 
+Ranmuduwewa 
+Ranna 
+Ridiyagama 
+Sooriyawewa 
+Tangalle 
+Tissamaharama 
+Walasmulla 
+Weeraketiya 
+Weerawila 
